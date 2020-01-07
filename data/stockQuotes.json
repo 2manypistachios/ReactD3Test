@@ -1,0 +1,7 @@
+{
+  "dataSet": [
+    { "globalQuotes": [{ "date": "2017-04-23", "close": 25},{ "date": "2017-05-24", "close": 50 }, { "date": "2017-06-24", "close": 55 }], "name": "Apple", "ticker": "AAPL"},
+    { "globalQuotes": [{ "date": "2017-04-23", "close": 5},{ "date": "2017-05-24", "close": 60 }, { "date": "2017-06-24", "close": 75 }], "name": "Microsoft", "ticker": "MSFT"},
+    { "globalQuotes": [{ "date": "2017-04-23", "close": 35},{ "date": "2017-05-24", "close": 70 }, { "date": "2017-06-24", "close": 65 }], "name": "JP Morgan", "ticker": "JPM"}
+  ]
+}
